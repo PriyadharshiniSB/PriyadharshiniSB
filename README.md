@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Priyadharshini S B! 👋
 
-<!--
-**PriyadharshiniSB/PriyadharshiniSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering Student | 2027
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer interested in Full Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Interested in building practical software applications.
+- Learning and exploring full-stack web development.
+- Continuously improving my programming and problem-solving skills.
+
+### 🛠️ Technical Skills
+- **Programming:** Java, JavaScript, Python
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+- **TaskDrive** – File Management Platform
+- **GitHub Profile Analyzer** – GitHub profile and repository analytics
+- **Plant Disease Diagnosis** – Ongoing deep learning-based image retrieval project
+
+### 📫 Connect With Me
+- **GitHub:** [PriyadharshiniSB](https://github.com/PriyadharshiniSB)
+- **LinkedIn:** [Priyadharshini](https://www.linkedin.com/in/priyadharshini-sb/)
+
+---
+⭐ Thanks for visiting my profile!
