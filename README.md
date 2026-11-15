@@ -1,4 +1,4 @@
-# Hi, I'm Priyadharshini! 👋
+# Hi, I'm Priyadharshini S B! 👋
 
 🎓 Computer Science and Engineering Student | 2027
 
